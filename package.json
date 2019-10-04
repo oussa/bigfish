@@ -1,0 +1,11 @@
+{
+  "name": "bigfish",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:oussa/bigfish.git",
+  "author": "Oussama Krifa <krifa.oussama@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "echo \"all good!\""
+  }
+}
